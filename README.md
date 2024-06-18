@@ -1,1 +1,1 @@
-# Blogging-Platform
+# Blogging-Platform - A full fledged CRUD Application 
